@@ -12,16 +12,16 @@
   text-transform: uppercase;
   text-align: center;
   padding: 20px;
-  color: #4c4c4c;  
-  background-color: #f9f7f7;  
-} 
+  color: #4c4c4c;
+  background-color: #f9f7f7;
+}
 
 .statList {
   display: flex;
   list-style: none;
 }
 
-.item { 
+.item {
   display: flex;
   align-items: center;
   padding: 10px;
@@ -30,7 +30,7 @@
   font-weight: 500;
   color: #ebeaea;
   text-shadow: 1px 1px #4c4c4c;
-} 
+}
 
 .label {
   font-size: 10px;

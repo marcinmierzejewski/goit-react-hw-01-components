@@ -6,7 +6,7 @@
     0px 2px 1px rgba(0, 0, 0, 0.2);
 }
 
-.tableHead {  
+.tableHead {
   background-color: #00bcd5;
 }
 
@@ -14,12 +14,12 @@
   padding: 10px 0;
 }
 
-.row:nth-child(even) {  
-  background-color: #c8d8df;  
+.row:nth-child(even) {
+  background-color: #c8d8df;
 }
 
-.title{
-  width: calc(100% / 3);  
+.title {
+  width: calc(100% / 3);
   padding: 10px 0;
   color: #ffffff;
   text-transform: uppercase;
@@ -28,6 +28,6 @@
 .data {
   text-align: center;
   padding: 10px 0;
-  text-transform: capitalize;  
+  text-transform: capitalize;
   color: #8d8989;
 }

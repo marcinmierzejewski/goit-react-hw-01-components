@@ -3,7 +3,7 @@ import styles from './FriendsList.module.css';
 import { FriendsListItem } from 'components/friendsListItem/FriendsListItem';
 
 export const FriendsList = ({ listFriends }) => {
-  const { friends } = styles
+  const { friends } = styles;
 
   return (
     <ul className={friends}>
@@ -20,5 +20,5 @@ export const FriendsList = ({ listFriends }) => {
 };
 
 FriendsList.propTypes = {
-  listFriends: PropTypes.array.isRequired
+  listFriends: PropTypes.array.isRequired,
 };
